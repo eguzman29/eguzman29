@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="astro-profile.png" width="120" style="border-radius: 50%;" alt="RKamey Profile Picture"/>
+  <!--img src="astro-profile.png" width="120" style="border-radius: 50%;" alt="RKamey Profile Picture"/-->
   
   <h1 align="center">Hi,👋 I'm Ethan </h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4C1D95&center=true&vCenter=true&width=435&lines=Front-End+Developer;Technology+Enthusiast;Simple-Coder" alt="Typing SVG" />
+  <!--img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4C1D95&center=true&vCenter=true&width=435&lines=Front-End+Developer;Technology+Enthusiast;Simple-Coder" alt="Typing SVG" /-->
 
   <p>
     I'm a 20 year-old software engineer student.
@@ -35,9 +35,9 @@
   <a href="https://www.instagram.com/kamey_13/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
-</p-->
+</p>
 
-<!--<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RKamey&theme=radical&border_radius=10" alt="GitHub Streak" />
@@ -47,4 +47,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKamey&layout=compact&theme=radical&border_radius=10" alt="Top Langs" />
 </div>
 
-[![RKamey github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RKamey&theme=react-dark)](https://github.com/RKamey/github-readme-activity-graph)*/-->
+<!--[![RKamey github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RKamey&theme=react-dark)](https://github.com/RKamey/github-readme-activity-graph)*/-->
